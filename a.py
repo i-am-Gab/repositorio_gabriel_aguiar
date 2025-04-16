@@ -23,3 +23,4 @@ class A:
 
     def MA3(self):
         print("Alteração a classe A a partir do clone.")
+
