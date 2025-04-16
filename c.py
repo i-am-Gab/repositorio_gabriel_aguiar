@@ -20,3 +20,5 @@ class C:
 
     def MC2(self):
         print("Método MC2 executado.")
+
+
