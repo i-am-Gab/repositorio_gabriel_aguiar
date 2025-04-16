@@ -20,3 +20,6 @@ class A:
 
     def MA2(self):
         print("Método MA2 executado.")
+
+    def MA3(self):
+        print("Alteração a classe A a partir do clone.")
